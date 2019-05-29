@@ -4,7 +4,7 @@
 # Description: 
 #
 # <This code is for CA 3, which is data
-#  analysis for Crime in Ireland, particularly
+#  analysed for Crime in Ireland, particularly
 #  drunk driving. It deals with finding the correct
 #  statistical method, testing hypothesis and doing
 #  Power analysis on dataset. The dataset is from majorly
